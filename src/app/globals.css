@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.container-card .button {
+  grid-column-end: 1;
+}
+
+.bg-hero{
+  background-image: url('/devios_hero.jpeg')
+}
+
+.bg-binari{
+  background-image: url('/fondo-binario.png');
+}
+
